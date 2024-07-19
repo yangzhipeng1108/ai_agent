@@ -29,4 +29,4 @@ print(li.replace('/.','/'))
 
 # def fibanocci(
 # def quicksort(
-# def palindrome_checker(
+# def palindrome_checker()
